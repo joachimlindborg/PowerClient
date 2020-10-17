@@ -9,7 +9,7 @@ and local GPIO's feel free to invent.
 
 # How to access 
 
-Goto http://my.liv-in.se/join to create your account and get your
+Goto http://my.live-in.se/join to create your account and get your
 token then use curl to test the api out
 
 'curl -i -H "Accept: application/json" -H "Content-Type: text/json" -H
